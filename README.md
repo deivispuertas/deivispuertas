@@ -3,7 +3,7 @@
 - **I am a Data Analyst 📉**
   
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6a67974b-db4c-4f69-99cb-7ce33d5c7f17" alt="Software Development GIF" width="300" height="300>
+  <img src="https://github.com/user-attachments/assets/6a67974b-db4c-4f69-99cb-7ce33d5c7f17" alt="Software Development GIF" width="350">
 </p>
 
 
