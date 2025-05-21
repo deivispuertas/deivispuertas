@@ -43,7 +43,7 @@
 
 - **Data Analyst**
 - **Data Scientist**
-- **Data Engineer**
+- **Fullstack Developer**
 
 ## My Network
 
